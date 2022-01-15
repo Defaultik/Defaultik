@@ -1,7 +1,7 @@
 # 🤗 Welcome! Here you can find some info about me!
 * Discord: Default#7736
-* Telegram: t.me/defaultselfish
-* VK: vk.com/default.selfish
+* Telegram: [@defaultselfish](https://t.me/defaultselfish)
+* VK: [vk.com/default.selfish](https://vk.com/default.selfish)
 
 # 💻 Programming languages
 * Only Lua :(
