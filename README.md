@@ -2,7 +2,8 @@
 * Telegram: [@defaultselfish](https://t.me/defaultselfish)
 
 # 💻 Programming languages
-* Only Lua :(
+* Lua
+* Python (in process)
 
 # 🔥 Statistic
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Defaultik)](https://github.com/anuraghazra/github-readme-stats)
