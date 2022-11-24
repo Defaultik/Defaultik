@@ -3,7 +3,7 @@
 
 # 💻 Programming languages
 * Lua
-* Python (in process)
+* Python
 
 # 🔥 Statistic
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Defaultik)](https://github.com/anuraghazra/github-readme-stats)
