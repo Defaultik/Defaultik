@@ -4,6 +4,7 @@
 # 💻 Programming languages
 * Lua
 * Python
+* HTML, CSS
 
 # 🔥 Statistic
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Defaultik)](https://github.com/anuraghazra/github-readme-stats)
