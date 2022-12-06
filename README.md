@@ -15,7 +15,7 @@ My name is David, I am a beginner programmer in Israel.
 * Community management; Human resources; Work in team
 
 # 🔥 Statistic
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=defaultik&exclude_repo=nevermind,defaultuilibary&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=defaultik&hide=lua&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # ☎️ Contacts
 * Telegram: [@defaultselfish](https://t.me/defaultselfish)
