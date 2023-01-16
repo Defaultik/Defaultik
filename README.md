@@ -1,21 +1,20 @@
-# 🤗 Welcome!
-My name is David, I am a beginner programmer in Israel.
+# @Defaultiiik
+My name is David, I am a beginner programmer 
 
-# 💻 Programming languages
+### 💻 Programming languages
 * Python
 * Lua
 * HTML, CSS
 
-# ⭐ Experience
+### 💼 Experience
 * Linux
 * MySQL, SQLite
 * Git
 * VPS's (VDS's)
-* Hack The Box
 * Community management; Human resources; Work in team
 
-# 🔥 Statistic
+### 🔥 Statistic
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=defaultik&hide=lua&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-# ☎️ Contacts
-* Telegram: [@defaultselfish](https://t.me/defaultselfish)
+### ☎️ Contacts
+* Telegram: [@defaultselfish](https://t.me/defaultiiik)
