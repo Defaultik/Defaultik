@@ -1,4 +1,4 @@
-# @Defaultiiik
+# @Defaultik
 My name is David, I am a beginner programmer 
 
 ### 💻 Programming languages
