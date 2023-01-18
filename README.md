@@ -12,7 +12,7 @@ My name is David, I am a beginner programmer
 * Django
 * Go
 
-### 💼 Experience
+### 💼 Also I have experience in ...
 * Linux
 * MySQL, SQLite
 * Git
