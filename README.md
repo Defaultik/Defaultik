@@ -1,18 +1,13 @@
 # @Defaultik
-My name is David, I am a beginner programmer 
+My name is David, I am a junior programmer 
 
 ### 💻 Programming languages
 * Python
 * Lua
 * HTML, CSS
 
-### 📅 Plans
-* PHP
-* C#
-* Django
-* Go
-
 ### 💼 Also I have experience in ...
+* C, Shell Script
 * Linux
 * MySQL, SQLite
 * Git
