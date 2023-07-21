@@ -3,8 +3,9 @@ My name is David, I am a junior programmer
 
 ### 💻 Programming languages
 * Python
+* PHP
 * Lua
-* HTML, CSS
+* HTML, CSS, JavaScript
 
 ### 💼 Also I have experience in ...
 * C, Shell Script
