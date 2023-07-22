@@ -1,22 +1,13 @@
-# @Defaultik
-My name is David, I am a junior programmer 
+# david / @defaultik
 
-### 💻 Programming languages
-* Python
-* PHP
-* Lua
-* HTML, CSS, JavaScript
+## i am a junior python-developer that loves to learn everything about computers
+* 💻 programming languages: **python; php; lua; basics of frontend**
+* ⭐ i had experience in: **unix-like os's; c; shell script; mysql, sqlite; git; vps / vds; community management**
+* 🎯 my goal: **learn more python libraries; learn php; learn c# and ready to learn new**
+* ⌚ i am studying: **now i am studying php and a little bit of frontend (js, xml basics)**
 
-### 💼 Also I have experience in ...
-* C, Shell Script
-* Linux
-* MySQL, SQLite
-* Git
-* VPS's (VDS's)
-* Community management; Human resources; Work in team
-
-### 🔥 Statistic
+### 🔥 statistic
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Defaultik&hide=lua&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### ☎️ Contacts
+### ☎️ contacts
 * Telegram: [@defaultselfish](https://t.me/defaultiiik)
