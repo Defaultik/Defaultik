@@ -11,4 +11,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Defaultik&hide=lua&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ☎️ contacts
-* telegram: [@defaultselfish](https://t.me/defaultiiik)
+* telegram: [@defaultiiik](https://t.me/defaultiiik)
