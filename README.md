@@ -1,7 +1,7 @@
 # david / @defaultik
 
 ## i am a junior python-developer that loves to learn everything about computers
-* 💻 programming languages: **python; php; lua; basics of frontend**
+* 💻 programming languages: **python; php (basics); lua; frontend (basics)**
 * ⭐ i had experience in: **unix-like os's; c; shell script; mysql, sqlite; git (bash); vps / vds; community management**
   
 * 🎯 my goal: **learn more python libraries; learn php; learn c# and ready to learn new**
