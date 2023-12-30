@@ -1,6 +1,6 @@
 # david / @defaultik
 
-## i am a python-developer that loves to learn everything about computers
+## i am curly python-developer that loves to learn everything about computers
 * 💻 programming languages: **python; php (basics); lua; js (basics)**
 * ⭐ i had experience in: **unix-like os's; c; shell script; mysql, sqlite; git (bash); vps / vds management; community management**
 
