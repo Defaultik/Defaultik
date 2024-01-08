@@ -12,7 +12,7 @@ i am curly python-developer that loves to learn everything about computers
 * [sms_spoofer](https://github.com/Defaultik/sms_spoofer) - utility that allows you to send SMS to any phone number from any name with any content **(python)**
 * [lan_chat](https://github.com/Defaultik/lan_chat) - program that allows you to communicate with your friends in the same lan **(python)**
 * [file_explorer](https://github.com/Defaultik/file_explorer) - php file explorer with simple design and basic functionality **(php)**
-* [visitin_page](https://github.com/Defaultik/defaultik.github.io) - visiting page with minimalistic design **(javascript)**
+* [visiting_page](https://github.com/Defaultik/defaultik.github.io) - visiting page with minimalistic design **(javascript)**
 * [DefaultUILibary](https://github.com/Defaultik/DefaultUILibary) - ui library with animations for garry's mod **(lua)**
 * [NeverMind](https://github.com/Defaultik/NeverMind) - hack vs hack gamemode for garry's mod **(lua)**
 
