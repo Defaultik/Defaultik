@@ -2,7 +2,7 @@
 
 ### 📖 about me
 i am curly python-developer that loves to learn everything about computers
-* 💻 programming languages: **python; lua; php (basics); js (basics)**
+* 💻 programming languages: **python; lua; php (basics); javascript (basics)**
 * ⭐ i had experience in: **unix-like os's; c; shell script; mysql, sqlite; git (bash); vps / vds management; community management**
 
 * 🌐 languages: **hebrew (strong), english (strong), arabic (basics), russian (native), ukrainian (native)**
