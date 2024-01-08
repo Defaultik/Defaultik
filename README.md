@@ -20,4 +20,5 @@ i am curly python-developer that loves to learn everything about computers
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Defaultik&theme=github_dark&hide=lua&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ☎️ contacts
+* e-mail: defaultik.personal@gmail.com
 * telegram: [@defaultiiik](https://t.me/defaultiiik)
