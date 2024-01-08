@@ -17,7 +17,7 @@ i am curly python-developer that loves to learn everything about computers
 * [NeverMind](https://github.com/Defaultik/NeverMind) - hack vs hack gamemode for garry's mod **(lua)**
 
 ### 🔥 statistic
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Defaultik&hide=lua&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Defaultik&theme=github_dark&hide=lua&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ☎️ contacts
 * telegram: [@defaultiiik](https://t.me/defaultiiik)
