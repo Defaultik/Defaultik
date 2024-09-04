@@ -16,11 +16,11 @@ i am curly python-developer that loves to learn everything about computers
 * [NitzaJet](https://github.com/Defaultik/NitzaJet) - a simple game based on 'jetpack: joyride' **(python: pygame)**
 * [file_explorer](https://github.com/Defaultik/file_explorer) - php file explorer with simple design and basic functionality **(php)**
 * [visiting_page](https://github.com/Defaultik/defaultik.github.io) - visiting page with minimalistic design **(javascript)**
-* [DefaultUILibary](https://github.com/Defaultik/DefaultUILibary) - ui library with animations for garry's mod **(lua)**
-* [NeverMind](https://github.com/Defaultik/NeverMind) - hack vs hack gamemode for garry's mod **(lua)**
+* [DefaultUILibary](https://github.com/Defaultik/DefaultUILibary) - ui library for sandbox game garry's mod **(lua)**
+* [NeverMind](https://github.com/Defaultik/NeverMind) - gamemode for sandbox game garry's mod **(lua)**
 
 ### 🔥 statistic
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Defaultik&theme=github_dark&hide=lua&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Defaultik&theme=github_dark&hide=lua,html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ☎️ contacts
 * e-mail: david.greenboym@gmail.com
