@@ -10,11 +10,12 @@ i`m a Python developer with a passion for learning everything about computers.
 
 ### ⚡ my projects
 #### python
-* [sms_spoofer](https://github.com/Defaultik/sms_spoofer) - sms spoofing tool to send messages from any name to any phone number **(python: csv, configparser)**
-* [lan_chat](https://github.com/Defaultik/lan_chat) - lan-based communication tool for chatting with friends **(python: socket, threading, pickle, argparse)**
-* [djitello_controller](https://github.com/Defaultik/djitello_controller) - remote controller for dji tello drones **(python: opencv, pygame)**
-* [discord2telegram](https://github.com/Defaultik/discord2telegram) -  bot for forwarding messages between Telegram groups and Discord channels **(python: asyncio, aiogram, discord)**
-* [NitzaJet](https://github.com/Defaultik/NitzaJet) - simple game inspired by 'jetpack: joyride' **(python: pygame)**
+* [sms_spoofer](https://github.com/Defaultik/sms_spoofer) - sms spoofing tool to send messages from any name to any phone number **(csv, configparser)**
+* [winsec](https://github.com/Defaultik/winsec) - closes most popular vulnerabilities in windows 10/11
+* [lan_chat](https://github.com/Defaultik/lan_chat) - lan-based communication tool for chatting with friends **(socket, asyncio, pickle, argparse)**
+* [djitello_controller](https://github.com/Defaultik/djitello_controller) - remote controller for dji tello drones **(opencv, pygame)**
+* [discord2telegram](https://github.com/Defaultik/discord2telegram) -  bot for forwarding messages between Telegram groups and Discord channels **(asyncio, aiogram, discord)**
+* [NitzaJet](https://github.com/Defaultik/NitzaJet) - simple game inspired by 'jetpack: joyride' **(pygame)**
   
 #### other  
 * [file_explorer](https://github.com/Defaultik/file_explorer) - php file explorer with simple design and basic functionality **(php)**
