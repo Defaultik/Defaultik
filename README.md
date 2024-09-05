@@ -10,7 +10,7 @@ i`m a Python developer with a passion for learning everything about computers.
 
 ### ⚡ my projects
 #### python
-* [sms_spoofer](https://github.com/Defaultik/sms_spoofer) - sms spoofing tool to send messages from any name to any phone number **(csv, configparser)**
+* [sms_spoofer](https://github.com/Defaultik/sms_spoofer) - tool to send messages from any name to any phone number **(csv, configparser)**
 * [winsec](https://github.com/Defaultik/winsec) - closes most popular vulnerabilities in windows 10/11
 * [lan_chat](https://github.com/Defaultik/lan_chat) - lan-based communication tool for chatting with friends **(socket, asyncio, pickle, argparse)**
 * [djitello_controller](https://github.com/Defaultik/djitello_controller) - remote controller for dji tello drones **(opencv, pygame)**
