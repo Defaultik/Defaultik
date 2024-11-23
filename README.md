@@ -14,7 +14,6 @@ i`m a Python developer with a passion for learning everything about computers.
 * 💬 [lan_chat](https://github.com/Defaultik/lan_chat) - lan-based communication tool for chatting with friends **(socket, asyncio, pickle, argparse)**
 * 🕹️ [djitello_controller](https://github.com/Defaultik/djitello_controller) - remote controller for dji tello drones **(opencv, pygame)**
 * ✉️ [discord2telegram](https://github.com/Defaultik/discord2telegram) -  bot for forwarding messages between Telegram groups and Discord channels **(asyncio, aiogram, discord)**
-* 🎮 [NitzaJet](https://github.com/Defaultik/NitzaJet) - simple game inspired by 'jetpack: joyride' **(pygame)**
   
 #### other  
 * 📁 [file_explorer](https://github.com/Defaultik/file_explorer) - php file explorer with simple design and basic functionality **(php)**
