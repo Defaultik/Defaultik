@@ -63,7 +63,7 @@ defaultik = {
 | [🔥 sms_spoofer](https://github.com/Defaultik/sms_spoofer) | SMS sender name & content spoofing — security research tool | `Python` |
 | [🛡️ winsec](https://github.com/Defaultik/winsec) | Basic vulnerability scanner & hardening tool for Windows 10/11 | `Python` |
 | [🥷🏻 telegram-stealer](https://github.com/Defaultik/telegram-stealer) | Proof-of-concept demonstrating Telegram session hijacking risk exposure | `Python` |
-| [📁 file_explorer](https://github.com/Defaultik/file-explorer) | Lightweight file manager for dedicated servers | `FastAPI (Python)` |
+| [📁 file-explorer](https://github.com/Defaultik/file-explorer) | Lightweight file manager for dedicated servers | `FastAPI (Python)` |
 | [💬 lan_chat](https://github.com/Defaultik/lan_chat) | Async LAN chat over raw sockets | `Python` |
 | [🤖 discord2telegram](https://github.com/Defaultik/discord2telegram) | Bridge for forwarding messages between Discord & Telegram | `Python` |
 
